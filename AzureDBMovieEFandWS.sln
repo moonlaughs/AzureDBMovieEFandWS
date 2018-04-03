@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureMovieWebService", "myMovieWebService\AzureMovieWebService.csproj", "{4881FCA8-4D41-4AA4-8AE6-8BEF241D9D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureGenericDBEFandWSMovies", "myGenericDBEFandWSMovies\AzureGenericDBEFandWSMovies.csproj", "{491A12EC-10FB-40E9-BBD7-56335895AB86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4881FCA8-4D41-4AA4-8AE6-8BEF241D9D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4881FCA8-4D41-4AA4-8AE6-8BEF241D9D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4881FCA8-4D41-4AA4-8AE6-8BEF241D9D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4881FCA8-4D41-4AA4-8AE6-8BEF241D9D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491A12EC-10FB-40E9-BBD7-56335895AB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491A12EC-10FB-40E9-BBD7-56335895AB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491A12EC-10FB-40E9-BBD7-56335895AB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491A12EC-10FB-40E9-BBD7-56335895AB86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F16640E5-BF0D-47EB-BFD8-1738C64D0845}
+	EndGlobalSection
+EndGlobal
